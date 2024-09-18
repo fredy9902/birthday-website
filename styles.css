@@ -1,0 +1,25 @@
+body {
+    background-color: #d0e8d0; /* Pale pastel green */
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #a0d0e0; /* Pale pastel blue */
+    text-align: center;
+    margin-top: 50px;
+}
+
+p {
+    color: #333; /* Pale black text */
+    max-width: 600px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+#birthday-image {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+
